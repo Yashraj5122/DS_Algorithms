@@ -10,7 +10,7 @@ Output: ["leet","code","love","you"]
 Explanation:
 One possible encode method is: "leet:;code:;love:;you"
 '''
-
+from typing import List
 class Solution:
 
     def encode(self,strs):

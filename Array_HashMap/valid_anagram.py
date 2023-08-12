@@ -20,7 +20,7 @@ Constraints:
     s and t consist of lowercase English letters.
 
 '''
-
+from typing import List
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
 

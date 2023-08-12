@@ -27,7 +27,7 @@ Constraints:
 
 
 '''
-
+from typing import List
 from collections import defaultdict
 
 class Solution:
